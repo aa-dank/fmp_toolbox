@@ -1,0 +1,10 @@
+creds.py
+.git
+.idea
+__pycache__
+*.pyc
+.vscode
+venv/
+*.log
+*.csv
+*.json
